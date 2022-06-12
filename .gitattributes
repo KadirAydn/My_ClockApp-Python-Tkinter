@@ -1,2 +1,2 @@
 * linguist-vendored
-*.TeX linguist-vendored=false
+*.py linguist-vendored=false
